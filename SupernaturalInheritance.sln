@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupernaturalInheritance", "SupernaturalInheritance.csproj", "{18FB87E4-9549-4043-9EB6-840F7D67C9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FB87E4-9549-4043-9EB6-840F7D67C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FB87E4-9549-4043-9EB6-840F7D67C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FB87E4-9549-4043-9EB6-840F7D67C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FB87E4-9549-4043-9EB6-840F7D67C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C323E7-3C86-423A-8823-359FAE7BD324}
+	EndGlobalSection
+EndGlobal
